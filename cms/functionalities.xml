@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<functionalities>
+    <functionality id="1">articles</functionality>
+    <functionality id="2">gallery</functionality>
+    <functionality id="3">contact</functionality>
+<!--<functionality id="4">twitterfunc</functionality>-->
+    <functionality id="5">colors</functionality>
+    <functionality id="6">scrollimages</functionality>
+</functionalities>

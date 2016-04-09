@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<language>
+  <keywords>
+    <keyword>newsletter</keyword>
+    <keyword_en>Newsletter</keyword_en>
+    <keyword_nl>Nieuwsbrief</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>related</keyword>
+    <keyword_en>Related</keyword_en>
+    <keyword_nl>Gerelateerd</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>favorites</keyword>
+    <keyword_en>Favorites</keyword_en>
+    <keyword_nl>Favorieten</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>standards</keyword>
+    <keyword_en>Standards</keyword_en>
+    <keyword_nl>Standaarden</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>categories</keyword>
+    <keyword_en>Categories</keyword_en>
+    <keyword_nl>Categorieen</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>lastwork</keyword>
+    <keyword_en>Last work</keyword_en>
+    <keyword_nl>Laatste werk</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>portfolio</keyword>
+    <keyword_en>Portfolio</keyword_en>
+    <keyword_nl>Portfolio</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>thanks_reaction</keyword>
+    <keyword_en>Thanks you for your reaction</keyword_en>
+    <keyword_nl>Bedankt voor uw reactie</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>newslettercontact</keyword>
+    <keyword_en>I can also contact you. Leave you're email and you will receive notice when the site is updated</keyword_en>
+    <keyword_nl>Laat uw mail achter en U ontvangt bericht wanneer de site vernieuwd wordt.</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>friends</keyword>
+    <keyword_en>Friends</keyword_en>
+    <keyword_nl>Vrienden</keyword_nl>
+  </keywords>
+  <keywords>
+    <keyword>month</keyword>
+    <keyword_en>Months</keyword_en>
+    <keyword_nl>Maanden</keyword_nl>
+  </keywords> 
+  <keywords>
+    <keyword>notitle</keyword>
+    <keyword_en>( No title )</keyword_en>
+    <keyword_nl>( Geen titel )</keyword_nl>
+  </keywords> 
+</language>

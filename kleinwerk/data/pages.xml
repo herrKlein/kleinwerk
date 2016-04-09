@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pages.xsl"?>
+<pages>
+
+  <page published="1" id="kleinwerk">
+    <xsl>page</xsl>
+    <title_nl>Klein</title_nl>
+    <title_en>Klein</title_en>
+    <content>
+      <xhtml language="en">
+        <img src="data_img/illustrations_folio/VerhuizenHanneke.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerhuizenRemko.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerhuizenWij.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerjaardagMaurice.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerhuizenSjoerd.jpg" alt="" width="400" height="250" />
+      </xhtml>
+      <xhtml language="nl">
+        <img src="data_img/illustrations_folio/VerhuizenHanneke.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerhuizenRemko.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerhuizenWij.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerjaardagMaurice.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerhuizenSjoerd.jpg" alt="" width="400" height="250" />
+      </xhtml>
+    </content>
+    <content>
+      <xhtml language="en">
+        <img src="data_img/illustrations_folio/GeboorteIsa.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/GeboorteTeun.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/TrouwenStanPaulien.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/TrouwenWij.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerhuizenChantal.jpg" alt="" width="400" height="250" />
+      </xhtml>
+      <xhtml language="nl">
+        <img src="data_img/illustrations_folio/GeboorteIsa.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/GeboorteTeun.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/TrouwenStanPaulien.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/TrouwenWij.jpg" alt="" width="400" height="250" />
+        <img src="data_img/illustrations_folio/VerhuizenChantal.jpg" alt="" width="400" height="250" />
+      </xhtml>
+    </content>
+
+    <page published="1" id="scrollimages">
+      <xsl>page_scrollimages</xsl>
+      <title_nl>scrollimages</title_nl>
+      <title_en>scrollimages</title_en>
+      <functionality>
+        <id>6</id>
+      </functionality>
+      <content>
+        Infinite SCROLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+      </content>       
+    </page>
+
+    <page published="1" id="work">
+      <xsl>page_gallery</xsl>
+      <pagereference>illustrations</pagereference>      
+      <title_nl>Illustraties</title_nl>
+      <title_en>Illustration</title_en>
+      <page published="1" id="illustrations">
+        <xsl>page_gallery</xsl>
+        <creationdate>NULL</creationdate>
+        <published>0</published>
+        <category>NULL</category>
+        <functionality>
+          <id>2</id>
+          <category>Illustraties</category>
+        </functionality>    
+        <title_nl>Kaarten</title_nl>
+        <title_en>Cards</title_en>
+    <content>
+        <xhtml language="en">
+      <h1>Illustrations</h1>
+        </xhtml>
+        <xhtml language="nl">
+      <h1>Illustraties</h1>
+      <p>Hieronder een aantal kaarten die ik ontworpen heb.
+      Ben je geinteresseerd in een trouwkaart geboortekaart of andere illustratie
+      Neem dan <pagelink ref="about">contact</pagelink> met mij op</p>
+      <h2>Meer illustraties : </h2>
+        </xhtml>
+      </content> 
+      </page>
+      <page published="1" id="infographic">
+        <xsl>page_gallery</xsl>
+        <functionality>
+          <id>2</id>
+          <category>Infographic</category>
+        </functionality>    
+        <title_nl>Infographic</title_nl>
+        <title_en>Infographic</title_en>
+    <content>
+        <xhtml language="en">
+      <h1>Infographic</h1>
+        </xhtml>
+        <xhtml language="nl">
+      <h1>Infographic</h1>
+      <p>De volgende infographics zijn o.a. gemaakt voor het radboud ziekenhuis Nijmegen.</p> 
+      <h2>Meer infographics:</h2>
+        </xhtml>
+      </content>
+      </page>
+      <page published="1" id="paintings">
+        <xsl>page_gallery</xsl>
+        <functionality>
+          <id>0</id>
+          <category>Schilderen</category>
+        </functionality>    
+        <title_nl>Schilderijen</title_nl>
+        <title_en>Paintings</title_en>
+        <content>
+          <xhtml language="en">
+        <h1>Paintings</h1>
+          </xhtml>
+          <xhtml language="nl">
+        <h1>Schilderen</h1>
+        <p>Ik schilder graag onderwerpen met groffe doeltreffende kwast streken.
+        Ik werk met Acryl en Olieverf, en op triplex panelen. Lijkt het je wat om 
+        ook een portret of onderwerp geschilderd te hebben neem dan <pagelink ref="about">contact</pagelink> met mij op.</p>
+          </xhtml>
+        </content>      
+        <content>
+          <xhtml language="en">
+            <img src="data_img/schilderen/stilleven1.jpg" alt="" width="500" height="300" />
+            <img src="data_img/schilderen/portretten1.jpg" alt="" width="500" height="300" />
+            <img src="data_img/schilderen/stilleven2.jpg" alt="" width="500" height="300" />
+          </xhtml>
+          <xhtml language="nl">
+            <img src="data_img/schilderen/stilleven1.jpg" alt="" width="500" height="300" />
+            <img src="data_img/schilderen/portretten1.jpg" alt="" width="500" height="300" />
+            <img src="data_img/schilderen/stilleven2.jpg" alt="" width="500" height="300" />
+          </xhtml>
+        </content> 
+      </page>
+      <page published="1" id="sketches">
+        <xsl>page_gallery</xsl>
+        <functionality>
+          <id>2</id>
+          <category>Schetsen</category>
+        </functionality>    
+        <title_nl>Schetsen</title_nl>
+        <title_en>Sketches</title_en>
+    <content>
+        <xhtml language="en">
+      <h1>Sketches</h1>
+        </xhtml>
+        <xhtml language="nl">
+      <h1>Schetsen</h1>
+      <p>
+      Ondertussen heb ik een weblog gestart waar ik nieuwe schetsen op bijhoud.
+      Meer schetsen zie: <a href="http://schetswerk.blogspot.com">schets.kleinwerk.nl</a></p> 
+      <h2>Meer schetsen :</h2>
+        </xhtml>
+      </content>
+      </page>
+    </page>
+
+    <page published="1" id="Colors">
+      <xsl>page_colors</xsl>
+        <functionality>
+          <id>5</id>
+        </functionality>    
+      
+      <title_nl>Colors!</title_nl>
+      <title_en>Colors!</title_en>
+        <content>
+          <xhtml language="nl">
+          	<br clear="all" />
+          	<h2>Zwart wit schetsen</h2>
+          	<p>Als je met de muis over de schetsen gaat krijg je te zien hoe ze gemaakt zijn.</p>
+          </xhtml>
+          <xhtml language="en">
+          	<br clear="all" />
+          	<h2>Black and white sketches</h2>
+	  	<p>Hover the images for a replay of the making of the painting.</p>
+          </xhtml>
+        </content>        
+	<content>
+          <xhtml language="nl">
+          	<br clear="all" />
+	  	<p>Al deze schetsen zijn gemaakt met het programma colors!
+		<a href="https://www.facebook.com/ColorsLive">colorslive</a>
+		Dit programma verandert je NintendoDS in een draagbaar digitaal schetsboek.
+		Kijk op de site welk werk je met dit programma kan maken.
+		<a href="http://www.colorslive.com/">www.colorslive.com</a>
+		</p>
+          </xhtml>
+          <xhtml language="en">
+          	<br clear="all" />
+	  	<p>All these sketches are made with a super neat program called colors!
+		<a href="https://www.facebook.com/ColorsLive">colorslive</a>
+		It transforms your NintendoDS in a full color painting sketchbook.
+		For some amazing work made with this program, check the gallery :
+		<a href="http://www.colorslive.com/">www.colorslive.com</a>
+		</p>
+          </xhtml>
+        </content>                
+    </page> 
+
+      <page published="1" id="modeltekenen">
+        <xsl>page</xsl>
+        <title_nl>Modeltekenen</title_nl>
+        <title_en>Lifedrawing</title_en>
+        <content>
+          <xhtml language="nl">
+              <img id="modeltekenenafbeelding" src="data_img/modeltekenen/modeltekenen.jpg" alt="" width="800" height="450"/>
+            <h1>Modeltekenen</h1>
+            <p>Zie meer werk op : <a href="http://model.kleinwerk.nl">model.kleinwerk.nl</a></p>
+          </xhtml>
+          <xhtml language="en">
+            <img id="modeltekenenafbeelding" src="data_img/modeltekenen/modeltekenen.jpg" alt="" width="800" height="450"/>
+        <h1>Life drawing</h1>
+            <p>For more work : <a href="http://model.kleinwerk.nl">model.kleinwerk.nl</a></p>
+          </xhtml>
+        </content>
+          
+          <page published="1" id="cito">
+            <xsl>page</xsl>
+            <title_nl>Workshop gelijkenis in portretten</title_nl>
+            <title_en>Workshop likeness in portrait</title_en>
+        <content>
+          <hr class="divider"/>
+          <xhtml language="nl">
+              <img id="workshopafbeelding" src="data_img/modeltekenen/citoworkshop.jpg" alt="" width="400" height="900"/>
+
+          </xhtml>
+          <xhtml language="en">
+              <img id="workshopafbeelding" src="data_img/modeltekenen/citoworkshop.jpg" alt="" width="400" height="900"/>
+          </xhtml>
+        </content>             
+            <content>
+              <xhtml language="nl">
+
+              <h1>Workshop :<br />&quot;Gelijkenis in portretten&quot;</h1>
+<p>We herkennen onze collega's meteen, van een afstand, met of zonder bril, op een kleine foto, met lang of kort haar.
+Ook steeds meer fotopaketten kunnen gezichten herkennen en fotos sorteren op persoon.
+Waaraan herken je iemand, en wat zijn de unieke kenmerken van iemands gezicht.</p>
+
+<p>We gaan in deze workshop leren wat deze kenmerken zijn, ze leren te zien en vast te leggen.
+Een gelijkend portret maken is al voor de helft klaar als je weet waar je naar moet kijken.
+Hoe je waarneemt wordt uitgelegd, zo leer je de onderlinge verhoudingen in een gezicht, en de basisvormen van de ogen, neus en mond.
+De methoden die we leren gaan we stapsgewijs in een tekening onder begeleiding toepassen.
+Hierbij leren we de persoon die je tekent anders te bekijken, en levert dit een uniek portret op van je collega.</p>
+<br />
+<p>Patrick de Klein</p>
+              </xhtml>
+              <xhtml language="en">
+            <h1>CITO-dag workshop :<br />&quot;Likeness in a portrait&quot;</h1>
+		<p>We recognize our colleagues immediately, from a distance, with or without glasses, on a small picture, with long or short hair. 
+		More and more photo packages can recognize faces and sort photos by person. 
+		Why do you recognize someone, and what are the unique characteristics of a person's face.</p>
+
+		<p>In this workshop we will learn what these features are, learn to observe and record.
+		A likeliness in a portrait is already half done if you know what to look for. 
+		How you perceive is explained, as you learn the relationships in a face, and form the basis of the eyes, nose and mouth. 
+		We will apply the learned methods in a drawing, by guidance.
+		We learn to see the person before you in a different way, and this gives a unique portrait of your colleague.
+		</p>
+<br />
+<p>Patrick de Klein</p>
+
+              </xhtml>
+            </content>
+           
+            
+          </page>        
+      </page>
+      
+      
+    <page published="1" id="about">
+      <xsl>page</xsl>
+      <functionality>
+        <id>3</id>
+      </functionality>
+      <title_nl>Over mij</title_nl>
+      <title_en>About me</title_en>
+      <content>
+        <xhtml language="nl">
+            <h1>Over mij !</h1>
+            <p>Kleinwerk.nl toont mijn persoonlijke werk.
+            Dit werk bestaat voornamenlijk uit illustraties, welke in opdracht van Radboud ziekenhuis nijmegen, of particulieren 
+            worden gemaakt.Schilderen heb ik een aantal jaar geleden opgepakt en hiervan is ook wat eigen werk te zien.
+            Mijn meest recente werk, of experimenten zijn te volgen op mijn blog : <a href="http://schets.kleinwerk.nl">schets.kleinwerk.nl</a>
+            </p>
+      <h2>Modeltekenen</h2>
+      <p>Sinds 3 jaar hebben we een eigen modeltekenclub in Nijmegen. Werk hiervan wordt getoond op
+      <a href="http://model.kleinwerk.nl">model.kleinwerk.nl</a>. Wil je een keer meedoen of komen kijken
+      dan ben je van harte welkom. We tekenen elke donderdag vanaf 19:30u naar model in de 
+      <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=Archimedesstraat+9,+6533+Nijmegen,+Nijmegen+(Gelderland),+Netherlands&amp;sll=37.0625,-95.677068&amp;sspn=58.988897,107.226563&amp;ie=UTF8&amp;ll=51.809995,5.846035&amp;spn=0.011423,0.026178&amp;z=16&amp;iwloc=addr">schakel</a>.
+      </p>
+      <h2>Illustraties</h2>
+      <p>Bent U geinteresseerd in een illustratie of schilderij, neem dan gerust contact met mij op.</p>      
+      <h2>Links</h2>
+      <ul>
+        <li><a href="http://www.linkedin.com/in/patrickdeklein">linkedin account</a></li>
+      </ul>
+
+        </xhtml>
+        <xhtml language="en">
+            <h1>About me !</h1>
+    <p>Kleinwerk.nl is my personal site.
+            My work mainly consists of illustrations for our local hospital and other clients.
+            I recently started painting, and some work is displayed in paintings section of work. 
+            My most recent work and experiments can be followed on : <a href="http://schets.kleinwerk.nl">schets.kleinwerk.nl</a>
+            </p>
+      <h2>Lifedrawing</h2>
+      <p>We got our own lifedrawing club in Nijmegen. Our work is displayed on <a href="http://model.kleinwerk.nl">model.kleinwerk.nl</a>. Would you like to participate ? You are more then welcome. We draw sketch and paint every thursday from 19:30u in <a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=Archimedesstraat+9,+6533+Nijmegen,+Nijmegen+(Gelderland),+Netherlands&amp;sll=37.0625,-95.677068&amp;sspn=58.988897,107.226563&amp;ie=UTF8&amp;ll=51.809995,5.846035&amp;spn=0.011423,0.026178&amp;z=16&amp;iwloc=addr">de schakel</a>.
+      </p>
+      <h2>Illustration</h2>
+      <p>Are you interested in an illustration or painting, get in touch with me.</p>     
+      <h2>Links</h2>
+      <ul>
+        <li><a href="http://www.linkedin.com/in/patrickdeklein">Linked-In</a></li>
+      </ul>
+        </xhtml>
+      </content>
+        <content>
+          <xhtml language="nl">
+            <h1>Contactformulier</h1>
+          </xhtml>
+          <xhtml language="en">
+            <h1>Contact</h1>
+          </xhtml>
+        </content>
+        <content>
+          <xhtml language="nl">
+            <h1>Tweets</h1>
+            <p>Volg mij op <a href="http://twitter.com/Kleinwerk">twitter</a></p>
+          </xhtml>
+          <xhtml language="en">
+            <h1>Tweets</h1>
+            <p>Follow me on <a href="http://twitter.com/Kleinwerk">twitter</a></p>
+          </xhtml>
+        </content>
+            </page>
+
+
+    <page published="0" id="blog">
+      <external>http://schetswerk.blogspot.com</external>
+      <title_nl>Blog</title_nl>
+      <title_en>Blog</title_en>
+    </page>
+    
+       
+   
+  </page>
+</pages>

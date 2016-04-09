@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="articles.xsl"?>
+<articles>
+
+    <article id="article_64" published="1">
+        <title_en>http://Schets.kleinwerk.nl</title_en>
+        <content_en>
+          <p>More sketches studies and other material</p>
+        </content_en>
+        <title_nl>http://Schets.kleinwerk.nl</title_nl>
+        <content_nl>
+          <p>Meer schetsen studies en ander werk</p>
+        </content_nl>
+        <link>http://schetswerk.blogspot.com</link>
+        <pubDate>2007-06-29 9:56:00</pubDate>
+        <category>sketchblog</category>
+    </article>
+
+    <article id="article_63" published="1">
+        <title_en>http://Model.kleinwerk.nl</title_en>
+        <content_en>
+          <p>Our life drawing sessions</p>
+        </content_en>
+        <title_nl>http://Model.kleinwerk.nl</title_nl>
+        <content_nl>
+          <p>Onze modelteken sessies</p>
+        </content_nl>
+        <pubDate>2007-10-07 9:56:00</pubDate>
+        <link>http://modelwerk.blogspot.com</link>
+        <category>sketchblog</category>
+    </article>
+
+    <article id="article_62" published="1">
+        <title_en>Wanted models</title_en>
+        <content_en>
+          <p>For posing on thursday evening , we are looking for models in the area of Nijmegen. Get in <span class="contactlink">touch</span> if you are interested.</p>
+          <p>More information <a id="link_62" href="http://modelwerk.blogspot.com">model.kleinwerk.nl</a></p>
+        </content_en>
+        <title_nl>Modellen gezocht</title_nl>
+        <content_nl>
+          <p>We zoeken modellen om te poseren op donderdagavond in Nijmegen. Als U interesse heeft kunt U <span class="contactlink">contact</span> opnemen.</p>
+          <p>Voor meer informatie <a id="link_62" href="http://modelwerk.blogspot.com">model.kleinwerk.nl</a></p>
+        </content_nl>
+        <pubDate>2007-09-20 9:56:00</pubDate>
+        <category>sketchblog</category>
+    </article>
+
+    <article id="article_61" published="1">
+
+        <title_en>Contact page added</title_en>
+        <content_en>
+          <p>Added ability to mail me</p>
+        </content_en>
+        <title_nl>Contact pagina toegevoegd</title_nl>
+        <content_nl>
+          <p>Contact pagina toegevoegd</p>
+        </content_nl>
+        <pubDate>2007-10-24 16:18:52</pubDate>
+        <category>sketchblog</category>
+    </article>
+
+    <article id="article_60" published="1">
+
+        <title_en>Fresh look !</title_en>
+        <content_en>
+          <p>Updated the look and feel of the site, including some user friendly browsing through images and a new navigation model</p>
+        </content_en>
+        <title_nl>Nieuw uiterlijk !</title_nl>
+        <content_nl>
+          <p>De site heeft een vers design met een nieuwe indeling en meer gebruiksvriendelijke manier om  door mijn portfolio te navigeren</p>
+        </content_nl>
+        <pubDate>2007-07-10 16:18:52</pubDate>
+        <category>sketchblog</category>
+    </article>
+
+    <article id="article_59" published="1">
+
+        <title_en>Site update !</title_en>
+        <content_en>
+          <p>Finally a site update.. just some new (digital)paintings and illustrations<br />
+          Look at the work section !</p>
+        </content_en>
+        <title_nl>Site update !</title_nl>
+        <content_nl>
+          <p>Eindelijk weer wat tijd om nieuw werk op de site te zetten.<br />
+          Alle categorieen onder werk zijn aangepast.</p>
+        </content_nl>
+        <pubDate>2006-04-30 16:18:52</pubDate>
+        <category>sketchblog</category>
+    </article>
+
+
+    
+    <article id="article_58" published="1">
+        <title_nl>Wij gaan trouwen !</title_nl>
+        <content_en>
+          <p>Our own wedding card !</p>
+            <blogimg src="/kleinwerk/data/upload/misc/trouwkaart.jpg"/>
+        </content_en>
+        <content_nl>
+          <p>Onze trouwkaart !</p>
+            <blogimg src="/kleinwerk/data/upload/misc/trouwkaart.jpg"/>
+        </content_nl>
+        <title_en>Our wedding card !</title_en>
+        <pubDate>2005-11-23 22:13:52</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article id="article_57" published="1">
+        <title_en>Vietnamese cartoon characters.</title_en>
+        <content_en>
+            <blogimg src="/kleinwerk/data/upload/misc/vietnamcartoon.jpg"/>
+        </content_en>
+        <title_nl>Vietnamese stripfiguren.</title_nl>
+        <content_nl>
+            <blogimg src="/kleinwerk/data/upload/misc/vietnamcartoon.jpg"/>
+        </content_nl>
+        <pubDate>2005-11-23 22:13:52</pubDate>
+        <category>sketchblog</category>
+    </article>
+
+    <article id="article_56" published="1">
+        <title_en>Terras on Terschelling.</title_en>
+        <content_en>
+            <blogimg src="/kleinwerk/data/upload/misc/terschelling.jpg"/>
+        </content_en>
+        <title_nl>Terras on Terschelling.</title_nl>
+        <content_nl>
+            <blogimg src="/kleinwerk/data/upload/misc/terschelling.jpg"/>
+        </content_nl>
+        <pubDate>2005-11-23 22:13:52</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article id="article_55" published="1">
+        <title_en>StStevens tower.</title_en>
+        <content_en>
+            <blogimg src="/kleinwerk/data/upload/misc/ststevens.jpg"/>
+        </content_en>
+        <title_nl>St Stevenstoren.</title_nl>
+        <content_nl>
+            <p>snelle schets van de StStevenstoren</p>
+            <blogimg src="/kleinwerk/data/upload/misc/ststevens.jpg"/>
+        </content_nl>
+        <pubDate>2005-11-23 22:13:52</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article id="article_54" published="1">
+        <title_en>Summer terras.</title_en>
+        <content_en>
+            <blogimg src="/kleinwerk/data/upload/misc/terraszomerfeesten.jpg"/>
+        </content_en>
+        <title_nl>Zomerfeesten terras !</title_nl>
+        <content_nl>
+            <blogimg src="/kleinwerk/data/upload/misc/terraszomerfeesten.jpg"/>
+        </content_nl>
+        <pubDate>2005-11-23 22:13:52</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article id="article_53" published="1">
+        <title_en>Some sketches made on Samos</title_en>
+        <content_en>
+            <p>Some sketches made on Samos</p>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-watercolor.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-josetshirt.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-vrouwliggend.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-zittendlezen.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-liggend.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-gotglasses.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-gestures.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-haven.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-papabeach.jpg"/>
+        </content_en>
+        <title_nl>Vakantie Samos</title_nl>
+        <content_nl>
+            <p>Wat schetsen van Samos</p>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-watercolor.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-josetshirt.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-vrouwliggend.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-zittendlezen.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-liggend.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-gotglasses.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-gestures.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-haven.jpg"/>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/samos/samos-papabeach.jpg"/>
+        </content_nl>
+        <pubDate>2005-09-19 18:35:02</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article id="article_52" published="1">
+        <title_nl>Ganzenheuvel</title_nl>
+        <content_en>
+            <p>A sketch from our neighborhood !</p>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/ganzenheuvel.jpg"/>
+        </content_en>
+        <content_nl>
+            <body>
+                <p>Een schets van de ganzenheuvel !</p>
+                <blogimg src="/kleinwerk/data/upload/misc/sketches/ganzenheuvel.jpg"/>
+            </body>
+        </content_nl>
+        <title_en>Ganzenheuvel</title_en>
+        <pubDate>2005-09-19 18:35:02</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article id="article_51" published="1">
+        <title_nl>Gangsta heads</title_nl>
+        <content_en>
+            <p>Some gangsta heads !</p>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/gangsta-heads.jpg"/>
+        </content_en>
+        <content_nl>
+            <p>Een paar grafitti gestileerde gangsta heads !</p>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/gangsta-heads.jpg"/>
+        </content_nl>
+        <title_en>Gangsta heads</title_en>
+        <pubDate>2005-09-19 18:31:57</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article id="article_50" published="1">
+        <title_nl>Darts kijken</title_nl>
+        <content_en>
+            <p>When watching darts, all kinds of funny faces appear !</p>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/funnyfacesdart.jpg"/>
+        </content_en>
+        <content_nl>
+            <body>
+                <p>Schetsen op de bank terwijl je darts kijkt !</p>
+                <blogimg src="/kleinwerk/data/upload/misc/sketches/funnyfacesdart.jpg"/>
+            </body>
+        </content_nl>
+        <title_en>Watching Dart</title_en>
+        <pubDate>2005-09-19 18:29:50</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article id="article_49" published="1">
+        <title_nl>Flying kid</title_nl>
+        <content_en>
+            <p>After seen 
+            <a href="http://christessmer.com/sketchblog.php">Chriss Tesmers</a>
+            style, I wanted to try a similar linestyle !</p>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/flyingkid.jpg"/>
+        </content_en>
+        <content_nl>
+            <p>Na het zien van 
+            <a href="http://christessmer.com/sketchblog.php">Chriss Tesmers</a>
+            stijl, wilde ik zelf iets proberen !</p>
+            <blogimg src="/kleinwerk/data/upload/misc/sketches/flyingkid.jpg"/>
+        </content_nl>
+        <title_en>Flying kid !</title_en>
+        <pubDate>2005-09-17 20:39:11</pubDate>
+        <category>sketchblog</category>
+    </article>
+    <article published="1" id="article_48">
+        <title_nl>Pimp my Ride</title_nl>
+        <content_en>
+            <p>Our friends had a little welcome prepared on our car when we came back from vacation.</p>
+            <blogimg src="/kleinwerk/data/upload/misc/mycar.jpg" alt="graffiti auto" class="article"/>
+        </content_en>
+        <content_nl>
+            <p>Toen we terugkwamen van vakantie hadden onze vrienden nog een verassing voor ons. Ze hadden mijn auto officialy gepimpt :</p>
+            <blogimg src="/kleinwerk/data/upload/misc/mycar.jpg" alt="graffiti auto" class="article"/>
+        </content_nl>
+        <title_en>"Pimp my Ride"</title_en>
+        <pubDate>2004-11-20 12:50:07</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_47">
+        <title_nl>Terug van Vietnam</title_nl>
+        <content_en>
+            <p>We are back from vietnam. The journy was wonderfull and I can recommend everyone this country for travelling</p>
+        </content_en>
+        <content_nl>
+            <p>Gisteren zijn mijn 
+            <strong>vriendin</strong>
+            en ik teruggekomen van een prachtige reis door vietnam. Het is een erg mooi en vriendelijk land, en ik zou iedereen aanraden er nu nog naar toe te gaan. Het toerisme is flink in opkomst, en dat merk je wel aan de verkopers en 
+            <em>westerse restaurantjes</em>
+            . Desondanks is het meer als de moeite waard dit land te bezoeken en vooral meer tijd uit te trekken in het noorden waar de omgevingen toch mooier zijn, en de mensen net iets vriendelijker.</p>
+        </content_nl>
+        <title_en>Back from Vietnam</title_en>
+        <pubDate>2004-11-01 17:28:51</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_43">
+        <title_nl>Naar vietnam.</title_nl>
+        <content_en>
+            <p>Tomorarticle my girlfriend and I are leaving for a 4 week trip to Vietnam. For a complete travelling journal look 
+            <a href="http://www.kleinwerk.nl/kleinwerk/index.php?page=6">here</a>
+            (sorry only available in dutch ). 
+            <br/>
+            Our actual journal is here : 
+            <a href="http://mupkes.waarbenjij.nu">mupkes.waarbenjij.nu</a>
+            (sorry only available in dutch ).</p>
+        </content_en>
+        <content_nl>
+            <p>Morgen vertrekken mijn vriendin en ik naar vietnam. Zie de complete reis 
+            <a href="http://www.kleinwerk.nl/kleinwerk/index.php?page=6">hier</a>
+            . 
+            <br/>
+            Ons actuele verslag is te lezen op : 
+            <a href="http://mupkes.waarbenjij.nu">mupkes.waarbenjij.nu</a>
+            </p>
+        </content_nl>
+        <title_en>Leaving for Vietnam</title_en>
+        <pubDate>2004-10-02 19:40:46</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_46">
+        <title_nl>Kleine Site update</title_nl>
+        <content_en>
+            <p>Site is now also available in english!</p>
+        </content_en>
+        <content_nl>
+            <p>Site zou er nu ook netjes moeten uitzien in Opera7, en de site is nu ook in het engels beschikbaar. Zie icoontjes rechtsboven.</p>
+        </content_nl>
+        <title_en>Small site update</title_en>
+        <pubDate>2004-07-26 21:34:01</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_45">
+        <title_nl>Logo tatoo</title_nl>
+        <content_en/>
+        <content_nl>
+            <blogimg src="/kleinwerk/data/upload/misc/tattoologo.jpg" alt="logotattoo" class="article"/>
+            <p>Mijn vriendin heeft een henna tatoo laten zetten van mijn logo. cool !</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-07-22 14:24:18</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_44">
+        <title_nl>Nieuwe layout</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Een nieuwe naam: ' www.kleinwerk.nl ' en een nieuwe site.</p>
+            <p>Er staan weer wat schetsen bij, en het gastenboek is samengevoegd met het contactformulier. Tevens kan ik op berichten uit het gastenboek reageren !</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-07-22 14:23:13</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_42">
+        <title_nl>Verhuiskaart van Peter en Chantal</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Informatie die ik had was dat Peter ietwat klungelig is, maar wel lekker kan koken. En dat Chantal in het nieuwe huis bezig is met haar kroonluchter op te hangen. De trap die centraal in het huis ligt heb ik als vage achtergrond gebruikt, en de kleuren geprobeerd om een beetje op elkaar aan te sluiten.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-06-08 22:37:20</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_41">
+        <title_nl>Nieuw illustraties</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>- In opdracht van GX heb ik een illustratie gemaakt voor de lancering van ons produkt. En van het poppetje in de illustratie is er een t-shirt gemaakt.</p>
+            <p>- Als tweede is heb ik een verhuiskaart gemaakt voor Stan en Paulien.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-04-13 21:04:40</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_40">
+        <title_nl>Nieuw paint programma</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Er is een cool nieuw gratis programma uit om mee te schilderen op de computer. Het bootst een aantal traditionele media goed na, en is gratis.</p>
+            <p>
+                <a href="http://www.ambientdesign.com/artrage.html">http://www.ambientdesign.com/artrage.html</a>
+            </p>
+            <p/>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-04-08 11:05:56</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_39">
+        <title_nl>Concept art Workshop</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>De fotos van de workshop staan online : 
+            <br/>
+            <a href="http://www.conceptart.org/forums/showthread.php?s=&amp;threadid=21269">Fotos dag 1</a>
+            </p>
+            <p>
+                <a href="http://www.conceptart.org/forums/showthread.php?s=&amp;threadid=21270">Fotos dag 2</a>
+            </p>
+            <p>
+                <a href="http://www.conceptart.org/forums/showthread.php?s=&amp;threadid=21271">Fotos dag 3</a>
+            </p>
+            <p>
+                <a href="http://www.conceptart.org/forums/showthread.php?s=&amp;threadid=21272">Fotos dag 4</a>
+            </p>
+            <p/>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-04-07 10:05:15</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_38">
+        <title_nl>Fotos Amsterdam Workshop</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Er zijn al wat fotos online van de "teachers of the workshop". Op dit moment zitten ze in Parijs en morgen geven ze de workshop in Amsterdam.</p>
+            <p>Ik begin er nu echt zin in te krijgen ;)</p>
+            <p>
+                <a href="http://www.conceptart.org/forums/showthread.php?s=&amp;threadid=20848&amp;pagenumber=1">Fotos Amsterdam Workshop I</a>
+            </p>
+            <p>
+                <a href="http://www.conceptart.org/forums/showthread.php?s=&amp;threadid=20848&amp;perpage=30&amp;pagenumber=2">Fotos Amsterdam Workshop II</a>
+            </p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-04-01 09:50:13</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_37">
+        <title_nl>Verhuiskaart op 1.</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Net ontdekt dat als je in google op afbeeldingen zoekt met de term 
+            <a title="verhuiskaart op google" href="http://images.google.nl/images?hl=nl&amp;lr=&amp;ie=ISO-8859-1&amp;q=verhuiskaart&amp;sa=N&amp;tab=gi">verhuiskaart</a>
+            , dat onze verhuiskaart op no 2 staat.. !</p>
+            <p>
+                <em>Update : de verhuiskaart staat nu op nr 1 !</em>
+            </p>
+            <p/>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-03-29 13:24:28</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_36">
+        <title_nl>Conceptart workshop..</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Vrijdag 2 april t/m 5 april ga ik een workshop voor "concept artist" bijwonen in Amsterdam.</p>
+            <p>De Conceptartist is degene die ideeen voor characters/voertuigen/landschappen visualiseert voordat ze gebruikt worden in spelletjes of films.</p>
+            <p>
+            </p>
+            <p>De workshop wordt gegeven door :</p>
+            <p>
+            <a href="http://www.conceptart.org/artist/jason-manley/">jason-manley</a>
+            ( concept artist voor black-isle studios )</p>
+            <p>
+            <a href="http://www.conceptart.org/artist/andrew-jones/">andrew-jones</a>
+            ( concept artist voor Nintendo )</p>
+            <p>
+            </p>
+            <p>Meer informatie over de workshop :</p>
+            <p>
+                <a href="http://www.conceptart.org/forums/showthread.php?threadid=19612">Official European Workshop</a>
+            </p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-03-29 10:58:51</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_35">
+        <title_nl>Retro gameboy advance</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Ze hebben van de gameboy een retro famicon versie uitgebracht ( je weet wel van die vroegere mobiele games )</p>
+            <p>Meer informatie 
+            <a title="retro gameboy" href="http://www.gamespot.com/all/news/news_6071656.html">hier</a>
+            </p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-03-08 11:39:17</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_34">
+        <title_nl>Nieuw site live !</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Na een paar maanden werk is dit de nieuwe site! 
+            <br/>
+            Nieuwe layout, gastenboek. 
+            <br/>
+            En voor de techies. w3c compliant html/css, en tableless layout.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2004-03-02 13:41:27</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_33">
+        <id>33</id>
+        <title_nl>Update</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Eindelijk weer een update. 3 nieuwe Illustraties en een aantal nieuwe schetsen op de site geplaatst !</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-12-27 14:26:48</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_32">
+        <title_nl>Schets map</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Voor schetsen die misschien niet uitgewerkt worden heb ik een schets map gemaakt met daarin directe linkjes naar schetsen van de afgelopen tijd.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-08-09 14:26:37</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_31">
+        <title_nl>Verhuiskaart</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Verhuiskaart van 
+            <a href="index.php?page=2&amp;amp;category=0&amp;amp;imageid=46">Loes en Giorgo</a>
+            in illustraties</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-06-03 14:26:27</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_30">
+        <title_nl>Zelfportret</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>film van een getekend zelfportret</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-05-27 14:26:20</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_29">
+        <title_nl>Houtskool</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Twee nieuwe tekeningen in een nieuwe rubriek ' 
+            <a href="index.php?page=2&amp;amp;category=5">houtskool</a>
+            '</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-05-14 14:26:10</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_28">
+        <title_nl>Ontwerp en Nieuwsbrief</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Ik heb het ontwerp van de site wat aangepast, en er is een mogelijkheid om je aan te melden voor de nieuwsbrief. Dit houdt in , dat als er iets nieuws op de site geplaatst wordt, je een mailtje krijgt. Vul hiervoor je email adres in , en druk op verzenden.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-04-27 14:26:00</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_27">
+        <title_nl>Open canvas</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Op een 
+            <a href="http://www.conceptart.org/">site</a>
+            waar ik regelmatig kom, stond een 
+            <a href="http://www.conceptart.org/forums/showthread.php?threadid=3148">tutorial</a>
+            van ' 
+            <a href="http://www.itchstudios.com/psg">Prometheus</a>
+            '. Deze tutorial bevatte een 
+            <a href="http://www.portalgraphics.net/">opencanvas</a>
+            event file. 
+            <br/>
+            Opencanvas is een programma waarbij je met meerdere mensen tegelijk op een canvas kan tekenen. Tevens onthoudt opencanvas alle 'strokes' die je zet, zodat je naderhand kan zien hoe iemand iets getekend heeft. 
+            <br/>
+            Ik heb onder 
+            <a href="index.php?page=2&amp;amp;category=4">tekeningen</a>
+            nu ook een opencanvas gedeelte waarin wat portretten staan en de bijbehorende event file. 
+            <br/>
+            Door middel van opencanvas te downloaden en 'import event file' te kiezen, kan je de event files laten afspelen. 
+            <br/>
+            Zoom wel even 1x uit, anders speelt het filmpje op de dubbele grootte af.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-04-15 14:25:48</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_26">
+        <title_nl>Ha ha ha ha, Stayin' Alive !!</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Laatst wat inspiratie opgedaan op een te gek 70's feestje hier in de Matrix in Nijmegen. Nieuwe tekening in Illustraties : 
+            <a href="index.php?page=2&amp;amp;category=0&amp;amp;imageid=42">seventies</a>
+            funk !</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-02-07 14:25:38</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_25">
+        <title_nl>Studio noodweer.</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Vorige week heb ik een bezoek gebracht aan de tekenaars van studio noodweer. Erg leuk om te zien, hoe en waar ze de strips maakten. Hun karakters, composities en grappen zijn erg goed. Ik had wat eigen werk meegenomen, en wat opbouwende kritiek gekregen ( die ik ook wel kon gebruiken wil ik net zo goed worden ) Ik raad mensen vooral aan even een bezoek te brengen aan de site : 
+            <a href="http://www.noodweer.nl/">studio noodweer</a>
+            </p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-01-27 14:25:24</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_24">
+        <title_nl>Oefening baart kunst.</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Een van de moeilijkste dingen om te tekenen is de mens zelf. De laatste tijd ben ik dus aan het oefenen om de verschillende onderdelen van het menselijk lichaam waarheidsgetrouw te kunnen tekenen. 
+            <br/>
+            Er is nu een nieuw onderdeel op de site : oefeningen. Hierin komen schetsen te staan waarin ik de anatomie van de mens probeer vast te leggen. De eerste tekeninen zullen van het menselijk hoofd zijn.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2003-01-18 14:25:08</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_23">
+        <title_nl>Prettige kerstdagen !</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Vorige week eindelijk een goed bureau gekregen (bedankt pa!) en kon ik dus eindelijk mijn wacom weer normaal gebruiken. Een eerste schildertestje gaf dit als resultaat</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2002-12-23 14:24:18</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_22">
+        <title_nl>Links toegevoegd.</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Een aantal links die ik vaak bezoek heb ik toegevoegd onder de contact pagina. Klik hier om er direct naar toe te gaan.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2002-12-23 14:24:02</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+    <article published="1" id="article_21">
+        <title_nl>Nieuws !</title_nl>
+        <content_en/>
+        <content_nl>
+            <p>Vandaag (23 nov) is mijn nieuwe site online gegaan. Kijk regelmatig op deze pagina voor nieuwe illustraties e.d.</p>
+        </content_nl>
+        <title_en/>
+        <pubDate>2002-11-23 14:55:48</pubDate>
+        <category>NULL</category>
+        <image/>
+    </article>
+</articles>
